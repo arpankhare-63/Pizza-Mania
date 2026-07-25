@@ -1,8 +1,8 @@
-# 🍕 Pizza Mania Sales Analysis (SQL)
+# 🍕 Pizza Ping Sales Analysis (SQL)
 
 ## Overview
 
-Pizza Mania Sales Analysis is a SQL-based data analytics project that explores pizza sales data to uncover business insights. The project focuses on analyzing customer orders, revenue trends, product performance, and sales patterns using SQL queries.
+Pizza Ping Sales Analysis is a SQL-based data analytics project that explores pizza sales data to uncover business insights. The project focuses on analyzing customer orders, revenue trends, product performance, and sales patterns using SQL queries.
 
 ## Objectives
 
