@@ -35,6 +35,21 @@ Pizza Mania Sales Analysis is a SQL-based data analytics project that explores p
 * Calculated total revenue and average order value.
 * Evaluated cumulative revenue trends.
 
+## SQL Queries Performed
+
+* Retrieve total number of orders.
+* Calculate total revenue generated.
+* Identify the highest-priced pizza.
+* Find the most common pizza size ordered.
+* List the top 5 most ordered pizza types.
+* Calculate total quantity sold by category.
+* Analyze hourly and daily order trends.
+* Determine category-wise revenue contribution.
+* Calculate cumulative revenue over time.
+* Rank top-selling pizzas using window functions.
+* Analyze monthly sales performance.
+* Identify top-performing pizza categories.
+
 ## Dataset
 
 The dataset contains information about pizza orders, order details, pizza types, sizes, quantities, prices, and order timestamps.
